@@ -4,8 +4,7 @@
 
 |                                                 |    |    |    |                                                         | 
 |-------------------------------------------------|----|----|----|---------------------------------------------------------| 
-| 2020 IHSSA All-State                            |    |    |    |                                                         | 
-| Friday                                          | 🎭 | 🚌 | 🚛 | Activity                                                | 
+| **Friday**                                      | 🎭 | 🚌 | 🚛 | **Activity**                                            | 
 | 7:30 AM                                         |    |    |    | Pick up all-state t-shirts in PAC                       | 
 | 7:45 AM                                         |    |    |    | Group photos in PAC                                     | 
 | 9:00 AM                                         |    |    |    | PAC - Expections form Ms. Hansen & Directors            | 
@@ -28,8 +27,7 @@
 
 |                                                                   |    |    |    |                                                                        | 
 |-------------------------------------------------------------------|----|----|----|------------------------------------------------------------------------| 
-| 2020 IHSSA All-State                                              |    |    |    |                                                                        | 
-| Saturday                                                          | 🎭 | 🚌 | 🚛 | Activity                                                               | 
+| **Saturday**                                                      | 🎭 | 🚌 | 🚛 | **Activity**                                                           | 
 | 5:30 AM                                                           |    |    |    | Breakfast & Wristbands outside elevators on a floor                    | 
 | 6:30 AM                                                           |    | 🚌 |    | Bus leaves for Iowa State Center                                       | 
 | 6:40 AM                                                           |    |    | 🚛 | Truck unloads Choral Reading at CY Stephens                            | 
