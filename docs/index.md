@@ -10,11 +10,9 @@
 | 9:00 AM                                         |    |    |    | PAC - Expections form Ms. Hansen & Directors            | 
 | 10:00 AM                                        |    |    |    | Activities in PAC                                       | 
 | 11:00 AM                                        |    |    |    | Lunch in Drama Room                                     | 
-| 11:20 AM                                        |    |    | 🚛 | "Load the truck                                         | 
-| One Act costumes need to be accessible"         |    |    |    |                                                         | 
+| 11:20 AM                                        |    |    | 🚛 | Load the truck - One Act costumes need to be accessible | 
 | 12:00 PM                                        |    | 🚌 | 🚛 | Buses & truck leave                                     | 
-| 1:00 PM                                         |    |    |    | "Check in at Gateway Hotel in Ames                      | 
-| Hansen, Biermann, Hunt to hand out assignments" |    |    |    |                                                         | 
+| 1:00 PM                                         |    |    |    | Check in at Gateway Hotel in Ames, Hansen, Biermann, Hunt to hand out assignments | 
 | 3:25 PM                                         |    | 🚌 |    | Bus leaves for Hickory Park                             | 
 | 3:45 PM                                         |    |    |    | Dinner at Hickory Park                                  | 
 | 5:30 PM                                         |    | 🚌 |    | Depart Hickory Park                                     | 
@@ -36,8 +34,7 @@
 | 7:10 AM                                                           |    |    | 🚛 | Truck unloads Musical Theater at Ames Auditorium                       | 
 | 7:25 AM                                                           |    |    | 🚛 | Truck parks behind Scheman                                             | 
 | 7:20 AM                                                           |    |    |    | Ted & Liz deliver left over bands and get programs from Deb in Scheman | 
-| 7:30 AM                                                           |    |    |    | "Seating in CY Stephens for opening                                    | 
-| One Act Play cast/crew sit front row"                             |    |    |    |                                                                        | 
+| 7:30 AM                                                           |    |    |    | "Seating in CY Stephens for opening, One Act Play cast/crew sit front row |
 | 8:00 AM                                                           |    |    |    | Opening Ceremonies                                                     | 
 | 9:00 AM                                                           | 🎭 |    |    | Clockwork (ONE ACT) Fisher Theatre Center 1                            | 
 | 9:45 AM                                                           |    |    | 🚛 | Load One Act into truck at Fisher                                      | 
@@ -58,7 +55,7 @@
 | 2:15 PM                                                           |    |    | 🚛 | Load Musical Theatre onto truck at Ames Auditorium                     | 
 | 2:25 PM                                                           |    |    | 🚛 | Truck parks behind Scheman                                             | 
 | 2:25 PM                                                           | 🎭 |    |    | DeWaay/Stein (IMPROV) Scheman Center 7                                 | 
-| 2:40 PM,🎭,,,"‘Night, Mother (ENSEMBLE) Alumni Building Center 4" |    |    |    |                                                                        | 
+| 2:40 PM                                                           | 🎭 |    |    | Night, Mother (ENSEMBLE) Alumni Building Center 4 | 
 | 2:45 PM                                                           | 🎭 |    |    | Columbine (TV NEWS) Scheman Center 6                                   | 
 | 3:00 PM                                                           |    |    |    | Seating House Right in CY Stephens for Choral Reading                  | 
 | 3:12 PM                                                           | 🎭 |    |    | Emmett Till (CHORAL) CY Stephens Center 3                              | 
