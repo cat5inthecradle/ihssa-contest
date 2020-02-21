@@ -17,7 +17,7 @@
 | 3:45 PM                                         |    |    |    | Dinner at Hickory Park                                  | 
 | 5:30 PM                                         |    | 🚌 |    | Depart Hickory Park                                     | 
 | 6:00 PM                                         |    |    | 🚛 | Unload One Act Costumes from truck (and re-load racks)  | 
-| 9:15 PM                                         |    |    |    | "IHSSA Opening/Closing rehearsal (Hansen, Koontz only)" | 
+| 9:15 PM                                         |    |    |    | IHSSA Opening/Closing rehearsal (Hansen, Koontz only) | 
 | 9:45 PM                                         |    |    |    | Lights out                                              | 
 
 
@@ -34,7 +34,7 @@
 | 7:10 AM                                                           |    |    | 🚛 | Truck unloads Musical Theater at Ames Auditorium                       | 
 | 7:25 AM                                                           |    |    | 🚛 | Truck parks behind Scheman                                             | 
 | 7:20 AM                                                           |    |    |    | Ted & Liz deliver left over bands and get programs from Deb in Scheman | 
-| 7:30 AM                                                           |    |    |    | "Seating in CY Stephens for opening, One Act Play cast/crew sit front row |
+| 7:30 AM                                                           |    |    |    | Seating in CY Stephens for opening, One Act Play cast/crew sit front row |
 | 8:00 AM                                                           |    |    |    | Opening Ceremonies                                                     | 
 | 9:00 AM                                                           | 🎭 |    |    | Clockwork (ONE ACT) Fisher Theatre Center 1                            | 
 | 9:45 AM                                                           |    |    | 🚛 | Load One Act into truck at Fisher                                      | 
@@ -60,7 +60,7 @@
 | 3:00 PM                                                           |    |    |    | Seating House Right in CY Stephens for Choral Reading                  | 
 | 3:12 PM                                                           | 🎭 |    |    | Emmett Till (CHORAL) CY Stephens Center 3                              | 
 | 3:20 PM                                                           |    |    | 🚛 | Load Choral Reading in truck                                           | 
-|                                                                   |    |    | 🚛 | "Park truck at Scheman, make sure drivers can get into CY"             | 
+|                                                                   |    |    | 🚛 | Park truck at Scheman, make sure drivers can get into CY | 
 | 4:00 PM                                                           |    |    |    | VHS/VSW Pages meet at front of CY Stephens                             | 
 | 4:45 PM                                                           |    |    |    | Closing Ceremonies                                                     | 
 | 5:15 PM                                                           |    |    |    | Sweepstakes photo at Scheman                                           | 
