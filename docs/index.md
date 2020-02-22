@@ -38,6 +38,7 @@
 | 8:00 AM                                                           |    |    |    | Opening Ceremonies                                                     | 
 | 9:00 AM                                                           | 🎭 |    |    | Clockwork (ONE ACT) Fisher Theatre Center 1                            | 
 | 9:45 AM                                                           |    |    | 🚛 | Load One Act into truck at Fisher                                      | 
+| 9:45 AM                                                           |    |    |    | --- Ballard SF - Karens                                                | 
 | 10:00 AM                                                          |    |    | 🚛 | Truck parks behind Scheman                                             | 
 | 10:00 AM                                                          | 🎭 |    |    | Baby Mine (READERS) Scheman Center 2                                   | 
 | 10:30 AM                                                          |    |    | 🚛 | Load Readers Theatre into Truck at Scheman                             | 
@@ -47,17 +48,23 @@
 | 11:42 AM                                                          | 🎭 |    |    | The Time Traveler (SOLO MIME) Scheman Center 5                         | 
 | 11:50 AM                                                          | 🎭 |    |    | UBER (TV NEWS) Scheman Center 6                                        | 
 | 12:15 PM                                                          |    | 🚌 |    | Musical Theatre Bus leaves for Ames Auditorium                         | 
+| 12:15 PM                                                          |    |    |    | --- Fairfield Mime - Mime of the Ancient Mariner  | 
 | 12:17 PM                                                          | 🎭 |    |    | WAKE (RADIO) Scheman Center 6                                          | 
 | 1:10 PM                                                           | 🎭 |    |    | Pippin (MUSICAL THTRE) Ames Aud Center 8                               | 
+| 1:10 PM                                                           |    |    |    | --- Glenwood SF - Dodgebrawl                                           | 
 | 1:25 PM                                                           | 🎭 |    |    | Sweeney Todd (MUSICAL THTRE) Ames Aud Center 8                         | 
 | 1:45 PM                                                           | 🎭 |    |    | Rainbow Crow (VSW READERS) Scheman Center 2                            | 
+| 1:50 PM                                                           |    |    |    | --- Grinnell GM - Space Rescue                          | 
 | 1:55 PM                                                           | 🎭 |    |    | Toxic Avenger (MUSICAL THTRE) Ames Aud Center 8                        | 
 | 2:15 PM                                                           |    |    | 🚛 | Load Musical Theatre onto truck at Ames Auditorium                     | 
+| 2:15 PM                                                           |    |    |    | --- DSM Roosevelt SF: Larry the Dino                                   | 
 | 2:25 PM                                                           |    |    | 🚛 | Truck parks behind Scheman                                             | 
 | 2:25 PM                                                           | 🎭 |    |    | DeWaay/Stein (IMPROV) Scheman Center 7                                 | 
 | 2:40 PM                                                           | 🎭 |    |    | Night, Mother (ENSEMBLE) Alumni Building Center 4 | 
 | 2:45 PM                                                           | 🎭 |    |    | Columbine (TV NEWS) Scheman Center 6                                   | 
+| 2:55 PM                                                           |    |    |    | --- Council Bluffs SF - The Initiation                                   | 
 | 3:00 PM                                                           |    |    |    | Seating House Right in CY Stephens for Choral Reading                  | 
+| 3:00 PM                                                           |    |    |    | --- Grinnell GM - The Pirate Queen's Special Day         | 
 | 3:12 PM                                                           | 🎭 |    |    | Emmett Till (CHORAL) CY Stephens Center 3                              | 
 | 3:20 PM                                                           |    |    | 🚛 | Load Choral Reading in truck                                           | 
 |                                                                   |    |    | 🚛 | Park truck at Scheman, make sure drivers can get into CY | 
